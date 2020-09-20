@@ -1,16 +1,22 @@
-### Hi there 👋
+![header image](https://i.imgur.com/qWncCzY.png)
 
-<!--
-**Wallvon/Wallvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="font-weight: bold;">👋 I'm Robert S.</h1>
+<h2 align="center">A full-stack developer based in the Netherlands.</h2>
+<h4 align="center">Check out my website https://that-guy.tech for my recent work.</h4>
 
-Here are some ideas to get you started:
+<h1 align="center">Most used coding languages:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stats:**  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallvon&layout=compact&theme=radical" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallvon&show_icons=true&theme=radical" /></p>
+
+:mag_right: Currently learning NodeJS.
+
+You can contact me on Discord `That Guy#5275` or by emailing me at [robert.stokreef@planet.nl](mailto:robert.stokreef@planet.nl)
+
+<p align="center">
+<a href="https://twitter.com/ThatGuy5275" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>
+<a href="https://discord.gg/qy9SKfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="30" /></a>
+</p>
