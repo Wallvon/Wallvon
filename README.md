@@ -12,9 +12,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallvon&show_icons=true&theme=radical" /></p>
 
+<p align="center">
 :mag_right: Currently learning NodeJS.
-
+</p>
+<p align="center">
 You can contact me on Discord `That Guy#5275` or by emailing me at [robert.stokreef@planet.nl](mailto:robert.stokreef@planet.nl)
+</p>
 
 <p align="center">
 <a href="https://twitter.com/ThatGuy5275" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>
