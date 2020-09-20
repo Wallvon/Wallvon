@@ -15,6 +15,7 @@
 <p align="center">
 :mag_right: Currently learning NodeJS.
 </p>
+
 You can contact me on Discord `That Guy#5275` or by emailing me at [robert.stokreef@planet.nl](mailto:robert.stokreef@planet.nl)
 
 <p align="center">
