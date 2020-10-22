@@ -12,10 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallvon&show_icons=true&theme=radical" /></p>
 
-<p align="center">
-:mag_right: Currently learning NodeJS.
-</p>
-
 You can contact me on Discord `That Guy#5275` or by emailing me at [robert.stokreef@planet.nl](mailto:robert.stokreef@planet.nl)
 
 <p align="center">
