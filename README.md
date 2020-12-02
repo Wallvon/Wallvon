@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-weight: bold;">👋 I'm Robert S.</h1>
 <h2 align="center">A full-stack developer based in the Netherlands.</h2>
-<h4 align="center">Check out my website https://that-guy.tech for my recent work.</h4>
+<h4 align="center">Check out my website https://robert-s.dev for my recent work.</h4>
 <h4 align="center">You can contact me on Discord <code>That Guy#5275</code> or by emailing me <a href="mailto:robert.stokreef@planet.nl">here</a></h4>
 
 <p align="center">
