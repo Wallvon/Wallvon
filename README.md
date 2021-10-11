@@ -32,7 +32,7 @@
   <h3>Currently learning</h3>
   <div>
     <img alt="Go" src="https://img.shields.io/badge/-Go-040a16?style=for-the-badge&logo=go">
-    <img alt="C++" src="https://img.shields.io/badge/-C++-040a16?style=for-the-badge&logo=c%2b%2b">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-040a16?style=for-the-badge&logo=rust">
     <img alt="React" src="https://img.shields.io/badge/-React-040a16?style=for-the-badge&logo=react">
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-040a16?style=for-the-badge&logo=next.js">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-040a16?style=for-the-badge&logo=docker">
