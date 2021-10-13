@@ -1,8 +1,4 @@
 <div align="center">
-  <div>
-    <img alt="Banner" src="https://robert-s.dev/assets/img/forum-banner.jpg">
-  </div>
-
   <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
   <h2>A full-stack developer and tech enthusiast from the Netherlands.</h2>
   <h4>Check out my website https://robert-s.dev for my recent work.</h4>
