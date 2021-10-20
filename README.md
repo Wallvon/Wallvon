@@ -38,5 +38,5 @@
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wallvon&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=040a16">
   </div>
   <br/>
-  <h4>You can contact me on Discord <code>That Guy#5275</code> or by emailing me <a href="mailto:admin@robert-s.dev">here</a></h4>
+  <h4>You can contact me on Discord <code>Roberto#1762</code> or by emailing me <a href="mailto:admin@robert-s.dev">here</a></h4>
 </div>
