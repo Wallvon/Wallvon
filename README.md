@@ -5,10 +5,11 @@
   <br/>
   <h3>Languages</h3>
   <div>
+    <img alt="Go" src="https://img.shields.io/badge/-Go-18181b?style=for-the-badge&logo=go&logoColor=F43F5E">
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-18181b?style=for-the-badge&logo=typescript&logoColor=F43F5E">
+    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-18181b?style=for-the-badge&logo=javascript&logoColor=F43F5E">
     <img alt="Python" src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=F43F5E">
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-18181b?style=for-the-badge&logo=postgresql&logoColor=F43F5E">
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-18181b?style=for-the-badge&logo=javascript&logoColor=F43F5E">
-    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-18181b?style=for-the-badge&logo=typescript&logoColor=F43F5E">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-18181b?style=for-the-badge&logo=html5&logoColor=F43F5E">
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-18181b?style=for-the-badge&logo=css3&logoColor=F43F5E">
   </div>
@@ -28,21 +29,19 @@
   <h3>Miscellaneous</h3>
   <div>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-18181b?style=for-the-badge&logo=linux&logoColor=F43F5E">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-18181b?style=for-the-badge&logo=docker&logoColor=F43F5E">
     <img alt="Git" src="https://img.shields.io/badge/-Git-18181b?style=for-the-badge&logo=git&logoColor=F43F5E">
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-18181b?style=for-the-badge&logo=nginx&logoColor=F43F5E">
-    <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-18181b?style=for-the-badge&logo=travisci&logoColor=F43F5E">
   </div>
 
   <h3>Currently learning</h3>
   <div>
-    <img alt="Go" src="https://img.shields.io/badge/-Go-18181b?style=for-the-badge&logo=go&logoColor=F43F5E">
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-18181b?style=for-the-badge&logo=rust&logoColor=F43F5E">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-18181b?style=for-the-badge&logo=docker&logoColor=F43F5E">
   </div>
   <br/>
   <div>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wallvon&count_private=true&show_icons=true&title_color=F43F5E&text_color=ffffff&icon_color=F43F5E&bg_color=18181b">
   </div>
   <br/>
-  <h4>You can contact me on Discord <code>Roberto#1762</code> or by emailing me <a href="mailto:admin@robert-s.dev">here</a></h4>
+  <h4>You can contact me on Discord <code>Roberto#1762</code> or by emailing me <a href="mailto:hello@robert-s.dev">here</a></h4>
 </div>
