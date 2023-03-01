@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="1584" alt="banner" src="https://user-images.githubusercontent.com/42699143/222123078-de7f8bd8-5a9f-4950-b880-1a4aa700bf77.png">
   <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
   <h2>A full-stack developer and tech enthusiast from the Netherlands.</h2>
   <h4>Check out my website https://robert-s.dev for my recent work.</h4>
@@ -36,6 +37,7 @@
 
   <h3>Currently learning</h3>
   <div>
+    <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-18181b?style=for-the-badge&logo=svelte&logoColor=F43F5E">
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-18181b?style=for-the-badge&logo=rust&logoColor=F43F5E">
   </div>
   <br/>
