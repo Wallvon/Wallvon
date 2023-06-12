@@ -45,5 +45,5 @@
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wallvon&count_private=true&show_icons=true&title_color=F43F5E&text_color=ffffff&icon_color=F43F5E&bg_color=18181b">
   </div>
   <br/>
-  <h4>You can contact me on Discord <code>Roberto#1762</code> or by emailing me <a href="mailto:hello@robert-s.dev">here</a></h4>
+  <h4>You can contact me on Discord <code>robe.rt</code> or by emailing me <a href="mailto:hello@robert-s.dev">here</a></h4>
 </div>
